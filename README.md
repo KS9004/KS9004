@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, Learner!!
 
  
-- 🌱 I’m currently learning DevOps 🤣
+- 🌱 I’m currently learning Data Science 🤣
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play pc games / watch sci-fi movies
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Kumar Saurabh - aka [Bobby!](https://dothecoding.com) 👋
 
-[![Website](https://img.shields.io/website?label=dothecoding.com&style=for-the-badge&url=https%3A%2F%2Fdothecoding.com)](https://dothecoding)
+[![Website](https://img.shields.io/website?label=dothecoding.com&style=for-the-badge&url=https%3A%2F%2Fdothecoding.com)](https://dothecoding.com)
 
 ## I'm a Developer, Learner!!
 

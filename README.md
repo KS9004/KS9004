@@ -1,22 +1,22 @@
-### Hi there, I'm Kumar Saurabh - aka [iamsaurabh/KS9004!](https://iamsaurabh.tech) 👋
+### Hi there, I'm Kumar Saurabh - aka [Bobby!](https://dothecoding.com) 👋
 
 [![Website](https://img.shields.io/website?label=imsaurabh.tech&style=for-the-badge&url=https%3A%2F%2Fiamsaurabh.tech)](https://iamsaurabh)
 
 ## I'm a Student, Developer, Learner!!
 
  
-- 🌱 I’m currently learning Data Science 🤣
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to play pc games / watch sci-fi movies
+- 🌱 I’m currently developing cross-platform applications 🤣
+- 🥅 2024 Goals: Become an AI engineer
+- ⚡ Fun fact: I love to play PC games / watch sci-fi movies
 
 ### Connect with me:
 
-<a href="https://iamsaurabh.tech"><img align="left" alt="iamsaurabh.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://dothecoding.com"><img align="left" alt="dothecoding" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCZIK8dK6N0TrgJFQ_f41iBQ">
+<a href="https://www.youtube.com/@codingwithks">
 <img align="left" alt="iamtheks| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://twitter.com/iamtheks1">
+<a href="https://x.com/BobbyAkaGoat">
 <img align="left" alt="iamtheks| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/KS9004">

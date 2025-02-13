@@ -6,7 +6,7 @@
 
  
 - 🌱 I’m currently developing cross-platform applications 🤣
-- 🥅 2025 Goals: Building Platform- Where everyone can lean (coming soon)
+- 🥅 2025 Goals: Building Platform- Where everyone can learn (coming soon)
 - ⚡ Fun fact: I love to play PC games / watch sci-fi movies
 
 ### Connect with me:

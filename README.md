@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Professional Summary
 
-- 💼 **Experience:** **2 years 10 months** formal IT experience as an **IT Analyst at TSINFO Technologies Private Limited** (Bangalore), followed by focused **independent product development**.
+- 💼 **Experience:** **3+ years** of professional software engineering experience, spanning corporate enterprise application delivery as an **IT Analyst at TSINFO Technologies** and independent product engineering.
 - 📱 **Mobile & Application Engineering:** Hands-on expertise building production-ready mobile apps for Android and cross-platform using **Flutter, Dart, Riverpod, and Drift (SQLite)**.
 - 🌐 **Full-Stack & Web:** Crafting performant web applications using **Next.js, React, TypeScript, Node.js, and Tailwind CSS**.
 - 🤖 **AI-Assisted & Modern Workflows:** Proficient in AI-powered feature integration (Firebase AI, AI SDKs, TensorFlow), rapid prototyping, and iterative development.

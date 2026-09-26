@@ -16,8 +16,8 @@
 
 ### 👨‍💻 Professional Summary
 
-- 💼 **Experience:** **2 years 10 months** formal IT experience as an **IT Analyst at TSINFO Technologies Private Limited** (Bangalore), followed by extensive **independent product development**.
-- 📱 **Mobile & Application Engineering:** Hands-on expertise building production-ready, offline-first mobile apps for Android and cross-platform using **Flutter, Dart, Riverpod, and Drift (SQLite)**.
+- 💼 **Experience:** **2 years 10 months** formal IT experience as an **IT Analyst at TSINFO Technologies Private Limited** (Bangalore), followed by focused **independent product development**.
+- 📱 **Mobile & Application Engineering:** Hands-on expertise building production-ready mobile apps for Android and cross-platform using **Flutter, Dart, Riverpod, and Drift (SQLite)**.
 - 🌐 **Full-Stack & Web:** Crafting performant web applications using **Next.js, React, TypeScript, Node.js, and Tailwind CSS**.
 - 🤖 **AI-Assisted & Modern Workflows:** Proficient in AI-powered feature integration (Firebase AI, AI SDKs, TensorFlow), rapid prototyping, and iterative development.
 - 🎓 **Education:** Master of Computer Applications (**MCA**, Chandigarh University) & Bachelor of Computer Applications (**BCA**, Rajarshi School of Management).
@@ -30,37 +30,32 @@
   <tr>
     <td width="50%">
       <h3 align="center">✨ Social Wand</h3>
-      <p><strong>AI-powered mobile application</strong> designed to craft socially appropriate replies with AI assistance. Implements modern application architecture, secure authentication, real-time databases, and cloud AI services.</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.socialwand.app">
+          <img src="https://img.shields.io/badge/Google_Play-Get_App-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Social Wand on Google Play" />
+        </a>
+      </p>
+      <p><strong>AI-powered mobile application</strong> published on Google Play, designed to craft socially appropriate replies with AI assistance. Implements modern application architecture, secure authentication, real-time databases, and cloud AI services.</p>
       <p><code>Flutter</code> • <code>Riverpod</code> • <code>Firebase Auth</code> • <code>Cloud Firestore</code> • <code>Firebase AI</code></p>
+      <p>🔗 <strong>Play Store:</strong> <a href="https://play.google.com/store/apps/details?id=com.socialwand.app">play.google.com/store/apps/details?id=com.socialwand.app</a></p>
     </td>
     <td width="50%">
       <h3 align="center">🎨 Imaginsta</h3>
-      <p><strong>AI digital product & creator platform</strong> integrating state-of-the-art multimodal AI models for creative asset generation, image synthesis, and automated workflows.</p>
+      <p align="center">
+        <a href="https://imaginsta.com">
+          <img src="https://img.shields.io/badge/Live_Website-imaginsta.com-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Imaginsta" />
+        </a>
+      </p>
+      <p><strong>AI digital product & creator platform</strong> integrating multimodal AI models for creative asset generation, image synthesis, and automated creator workflows.</p>
       <p><code>Next.js</code> • <code>TypeScript</code> • <code>Prisma</code> • <code>Turbopack</code> • <code>Vercel AI SDK</code></p>
+      <p>🔗 <strong>Website:</strong> <a href="https://imaginsta.com">imaginsta.com</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">📄 <a href="https://github.com/KS9004/pdftile">PDFTile</a></h3>
-      <p><strong>Offline-first PDF & document toolkit</strong> featuring high-performance document rendering, page manipulation, PDF generation, and Pro subscription gating.</p>
-      <p><code>Flutter</code> • <code>Dart</code> • <code>Syncfusion PDF</code> • <code>Riverpod</code> • <code>GoRouter</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔥 StreakTile</h3>
-      <p><strong>Offline-first habit & goal tracker</strong> with interactive streak heatmaps, local SQLite persistence, interactive home widgets, and scheduled local notifications.</p>
-      <p><code>Flutter</code> • <code>Drift SQLite</code> • <code>Riverpod</code> • <code>Local Notifications</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧹 KeepTile (CleanTile)</h3>
-      <p><strong>Smart offline photo & video declutter app</strong> for Android, helping users easily identify duplicates, analyze device storage, and organize gallery media.</p>
-      <p><code>Flutter</code> • <code>Android</code> • <code>Riverpod</code> • <code>File System APIs</code></p>
-    </td>
-    <td width="50%">
+    <td colspan="2">
       <h3 align="center">🏢 Enterprise & Business Solutions</h3>
-      <p>Contributed to production enterprise web and mobile applications at <strong>TSINFO Technologies</strong>, along with custom workflow software for local retail and restaurants.</p>
-      <p><code>Next.js</code> • <code>PostgreSQL</code> • <code>REST APIs</code> • <code>Flutter</code></p>
+      <p>Contributed to production enterprise web and mobile applications at <strong>TSINFO Technologies</strong> (confidential web application & Android tools), along with custom workflow applications built for local retail and restaurants.</p>
+      <p align="center"><code>Next.js</code> • <code>PostgreSQL</code> • <code>REST APIs</code> • <code>Flutter</code> • <code>Android</code> • <code>SQL Optimization</code></p>
     </td>
   </tr>
 </table>
@@ -95,7 +90,7 @@ timeline
     2016 - 2019 : BCA (Rajarshi School of Management) : Foundation in Computer Applications & Programming
     2019 - 2021 : MCA (Chandigarh University) : Advanced Software Engineering, Data Structures & Database Management
     2021 - 2024 : IT Analyst (TSINFO Technologies) : Enterprise Web (Next.js) & Mobile (Flutter) • Tech Articles (Python, SQL, TensorFlow)
-    2024 - Present : Independent Software Developer : Production Mobile Apps (PDFTile, StreakTile, Social Wand) • AI Products (Imaginsta)
+    2024 - Present : Independent Software Developer : Production Mobile App (Social Wand) • AI Products (Imaginsta)
 ```
 
 ---

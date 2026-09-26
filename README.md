@@ -99,7 +99,7 @@ timeline
 | Certification | Issuing Organization | Issue Date | Credential ID / Verification |
 | :--- | :--- | :--- | :--- |
 | **Mastering Next.js 13 with TypeScript** | Code With Mosh | Oct 2023 | `cert_z61ytsbv` |
-| **DeepLearning.AI TensorFlow Developer** | Coursera / DeepLearning.AI | Dec 2020 | [`T4RV6EJ6DPSL`](https://coursera.org/verify/T4RV6EJ6DPSL) |
+| **DeepLearning.AI TensorFlow Developer** | Coursera / DeepLearning.AI | Dec 2020 | [`T4RV6EJ6DPSL`](https://www.coursera.org/account/accomplishments/specialization/T4RV6EJ6DPSL) |
 | **Complete Machine Learning & Data Science Bootcamp** | Udemy | Dec 2020 | [`UC-88ad5934...`](https://www.udemy.com/certificate/UC-88ad5934-cd75-4486-8621-b69ad9903e0a/) |
 | **Computer Vision - Object Detection with OpenCV and Python** | Coursera | Sep 2020 | [`CQVMTMMVHGHN`](https://coursera.org/verify/CQVMTMMVHGHN) |
 | **The Complete 2020 Flutter Development Bootcamp with Dart** | Udemy | Apr 2020 | [`UC-c5a6745a...`](https://www.udemy.com/certificate/UC-c5a6745a-2a97-4fe4-a763-72eadf051798/) |

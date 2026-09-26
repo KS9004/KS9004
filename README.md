@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./bobby.jpg" alt="Kumar Saurabh (Bobby)" width="130" style="border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top;" />
   <h1>Hi there, I'm Kumar Saurabh (Bobby) 👋</h1>
   <p><strong>Software Developer | Full-Stack & Application Development</strong></p>
   <p>📍 India • Open to International Opportunities & Relocation</p>
@@ -6,7 +7,7 @@
   <p>
     <a href="https://dothecoding.com"><img src="https://img.shields.io/badge/Portfolio-dothecoding.com-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://linkedin.com/in/hibobbysingh"><img src="https://img.shields.io/badge/LinkedIn-hibobbysingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.youtube.com/@codingwithks"><img src="https://img.shields.io/badge/YouTube-@codingwithks-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://www.youtube.com/@singhbobbyofficial"><img src="https://img.shields.io/badge/YouTube-@singhbobbyofficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     <a href="https://x.com/codingwithks"><img src="https://img.shields.io/badge/X-@codingwithks-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
     <a href="mailto:uic.19mca8068@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>

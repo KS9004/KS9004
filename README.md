@@ -37,7 +37,6 @@
       </p>
       <p><strong>AI-powered mobile application</strong> published on Google Play, designed to craft socially appropriate replies with AI assistance. Implements modern application architecture, secure authentication, real-time databases, and cloud AI services.</p>
       <p><code>Flutter</code> • <code>Riverpod</code> • <code>Firebase Auth</code> • <code>Cloud Firestore</code> • <code>Firebase AI</code></p>
-      <p>🔗 <strong>Play Store:</strong> <a href="https://play.google.com/store/apps/details?id=com.socialwand.app">play.google.com/store/apps/details?id=com.socialwand.app</a></p>
     </td>
     <td width="50%">
       <h3 align="center">🎨 Imaginsta</h3>
@@ -48,7 +47,6 @@
       </p>
       <p><strong>AI digital product & creator platform</strong> integrating multimodal AI models for creative asset generation, image synthesis, and automated creator workflows.</p>
       <p><code>Next.js</code> • <code>TypeScript</code> • <code>Prisma</code> • <code>Turbopack</code> • <code>Vercel AI SDK</code></p>
-      <p>🔗 <strong>Website:</strong> <a href="https://imaginsta.com">imaginsta.com</a></p>
     </td>
   </tr>
   <tr>

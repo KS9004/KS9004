@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Professional Summary
 
-- 💼 **Experience:** **3+ years** of professional software engineering experience, spanning corporate enterprise application delivery as an **IT Analyst at TSINFO Technologies** and independent product engineering.
+- 💼 **Experience:** **3+ years** of professional software engineering experience, spanning corporate enterprise application delivery as an **IT Analyst & Developer at TSINFO Technologies** and independent product engineering.
 - 📱 **Mobile & Application Engineering:** Hands-on expertise building production-ready mobile apps for Android and cross-platform using **Flutter, Dart, Riverpod, and Drift (SQLite)**.
 - 🌐 **Full-Stack & Web:** Crafting performant web applications using **Next.js, React, TypeScript, Node.js, and Tailwind CSS**.
 - 🤖 **AI-Assisted & Modern Workflows:** Proficient in AI-powered feature integration (Firebase AI, AI SDKs, TensorFlow), rapid prototyping, and iterative development.
@@ -88,7 +88,7 @@ timeline
     title Career & Academic Timeline
     2016 - 2019 : BCA (Rajarshi School of Management) : Foundation in Computer Applications & Programming
     2019 - 2021 : MCA (Chandigarh University) : Advanced Software Engineering, Data Structures & Database Management
-    2021 - 2024 : IT Analyst (TSINFO Technologies) : Enterprise Web (Next.js) & Mobile (Flutter) • Tech Articles (Python, SQL, TensorFlow)
+    2021 - 2024 : IT Analyst & Developer (TSINFO Technologies) : Enterprise Web (Next.js) & Mobile (Flutter) • Tech Articles (Python, SQL, TensorFlow)
     2024 - Present : Independent Software Developer : Production Mobile App (Social Wand) • AI Products (Imaginsta)
 ```
 

@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Professional Summary
 
-- 💼 **Experience:** **3+ years** of professional software engineering experience, spanning corporate enterprise application delivery as an **IT Analyst & Developer at TSINFO Technologies** and independent product engineering.
+- 💼 **Experience:** **3+ years** of professional software engineering experience, spanning corporate enterprise application delivery as an **IT Analyst & Developer (Confidential Enterprise)** and independent product engineering.
 - 📱 **Mobile & Application Engineering:** Hands-on expertise building production-ready mobile apps for Android and cross-platform using **Flutter, Dart, Riverpod, and Drift (SQLite)**.
 - 🌐 **Full-Stack & Web:** Crafting performant web applications using **Next.js, React, TypeScript, Node.js, and Tailwind CSS**.
 - 🤖 **AI-Assisted & Modern Workflows:** Proficient in AI-powered feature integration (Firebase AI, AI SDKs, TensorFlow), rapid prototyping, and iterative development.
@@ -53,7 +53,7 @@
   <tr>
     <td colspan="2">
       <h3 align="center">🏢 Enterprise & Business Solutions</h3>
-      <p>Contributed to production enterprise web and mobile applications at <strong>TSINFO Technologies</strong> (confidential web application & Android tools), along with custom workflow applications built for local retail and restaurants.</p>
+      <p>Contributed to production enterprise web and mobile applications for enterprise clients (confidential enterprise systems & Android tools), along with custom workflow applications built for local retail and restaurants.</p>
       <p align="center"><code>Next.js</code> • <code>PostgreSQL</code> • <code>REST APIs</code> • <code>Flutter</code> • <code>Android</code> • <code>SQL Optimization</code></p>
     </td>
   </tr>
@@ -88,7 +88,7 @@ timeline
     title Career & Academic Timeline
     2016 - 2019 : BCA (Rajarshi School of Management) : Foundation in Computer Applications & Programming
     2019 - 2021 : MCA (Chandigarh University) : Advanced Software Engineering, Data Structures & Database Management
-    2021 - 2024 : IT Analyst & Developer (TSINFO Technologies) : Enterprise Web (Next.js) & Mobile (Flutter) • Tech Articles (Python, SQL, TensorFlow)
+    2021 - 2024 : IT Analyst & Developer (Enterprise IT Services - Confidential) : Enterprise Web (Next.js) & Mobile (Flutter) • Tech Articles (Python, SQL, TensorFlow)
     2024 - Present : Independent Software Developer : Production Mobile App (Social Wand) • AI Products (Imaginsta)
 ```
 
@@ -104,19 +104,6 @@ timeline
 | **Computer Vision - Object Detection with OpenCV and Python** | Coursera | Sep 2020 | [`CQVMTMMVHGHN`](https://coursera.org/verify/CQVMTMMVHGHN) |
 | **The Complete 2020 Flutter Development Bootcamp with Dart** | Udemy | Apr 2020 | [`UC-c5a6745a...`](https://www.udemy.com/certificate/UC-c5a6745a-2a97-4fe4-a763-72eadf051798/) |
 | **Learn Java Programming** | Udemy | Apr 2020 | [`UC-636e6117...`](https://www.udemy.com/certificate/UC-636e6117-84a3-41d6-b74b-ce36bd6bd8e5/) |
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KS9004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KS9004's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KS9004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KS9004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 

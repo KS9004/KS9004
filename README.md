@@ -2,7 +2,7 @@
   <img src="./bobby.jpg" alt="Kumar Saurabh (Bobby)" width="130" style="border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; object-position: top;" />
   <h1>Hi there, I'm Kumar Saurabh (Bobby) 👋</h1>
   <p><strong>Software Developer | Full-Stack & Application Development</strong></p>
-  <p>📍 India • Open to International Opportunities & Relocation</p>
+  <p>📍 India</p>
 
   <p>
     <a href="https://dothecoding.com"><img src="https://img.shields.io/badge/Portfolio-dothecoding.com-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
